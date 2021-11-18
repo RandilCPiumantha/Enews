@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "326806105530",
+    "project_id": "enews-17cf1",
+    "storage_bucket": "enews-17cf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326806105530:android:24e9fa1d2b1484f76e4183",
+        "android_client_info": {
+          "package_name": "teternalflame.news_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326806105530-lr124qn1fee5lrp41lom5auub79pppds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "teternalflame.news_app",
+            "certificate_hash": "b0ff6cae24cb11e20ea0abc8c3b2094b182d350f"
+          }
+        },
+        {
+          "client_id": "326806105530-036930tnh8gjo5rpbna4fr4gseg831fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYKvW-loxJYo9XBRDG-Zyk-Favx84IPuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326806105530-036930tnh8gjo5rpbna4fr4gseg831fb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
